@@ -1,3 +1,3 @@
 # html-portfolio
-## Bootcamp Fulstack Developer for Angela Yu
+## Bootcamp Fullstack Developer for Angela Yu
 HTML Basic
